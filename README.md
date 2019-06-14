@@ -1,0 +1,3 @@
+# Hackerrank-Algorithms-in-Problem-Solving
+Solutions for the problems i have worked out
+Suggest better approaches....Thanks....
